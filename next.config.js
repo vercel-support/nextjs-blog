@@ -3,10 +3,10 @@ module.exports = {
     return [
       // Rewriting to an external URL
       {
-        source: '/nginx/:slug*',
-        destination: 'https://romantic-visvesvaraya-39e8bf.netlify.app/nginx/:slug*',
+        source: "/nginx/:slug*",
+        destination:
+          "https://romantic-visvesvaraya-39e8bf.netlify.app/nginx/:slug*",
       },
-    ]
+    ];
   },
-  trailingSlash: false
-}
+};
