@@ -7,5 +7,6 @@ module.exports = {
         destination: 'https://romantic-visvesvaraya-39e8bf.netlify.app/nginx/:slug*',
       },
     ]
-  }
+  },
+  trailingSlash: true
 }
