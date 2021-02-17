@@ -8,5 +8,5 @@ module.exports = {
       },
     ]
   },
-  trailingSlash: false,
+  trailingSlash: true,
 }
