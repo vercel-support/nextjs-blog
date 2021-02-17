@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/nginx/:match*", "destination": "https://romantic-visvesvaraya-39e8bf.netlify.app/nginx/:match*" }
+  ]
+}
